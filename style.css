@@ -30,6 +30,7 @@ img {
 .home h1 {
     margin-top: 0;
 }
+
 /* Navigation
 ------------------------------------------ */
 nav {
@@ -225,7 +226,7 @@ ul.breadcrumb li+li:before {
         width: 100%;
     }
     .column,
-    .columns {
+      .columns {
         margin-left: 0%;
     }
 }
