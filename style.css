@@ -30,7 +30,6 @@ img {
 .home h1 {
     margin-top: 0;
 }
-
 /* Navigation
 ------------------------------------------ */
 nav {
@@ -53,7 +52,7 @@ nav .topnav li.mobile {
     nav.topnav ul li {
         display: none;
     }
-    nav .topnav ul li {
+    nav .topnav ul li mobile {
         display: inline-block;
     }
     nav .eight.columns,
